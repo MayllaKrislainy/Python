@@ -38,6 +38,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   Acesse o site [Python Brasil](https://python.org.br/instalacao-linux/).
   
   ### OU..
+  
   Caso você não queira instalar o python, você pode optar pelo site [relp.it](https://repl.it/).
   Esse site provê um ambiente configurado para as linguagens de progamação, incluindo Python...
   
