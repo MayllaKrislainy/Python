@@ -4,24 +4,29 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
 
 ## Vantagens de aprender Python
 
-  1. Simples e fácil de aprender
+  **1. Simples e fácil de aprender**
   
-          No Python, você não precisa lidar com a sintaxe complexa.
-  2. Portátil e Extensivel
+  No Python, você não precisa lidar com a sintaxe complexa.
   
-          O Python é suportado pela maioria das plataformas presentes no mercado atual.
-  3. Desenvolvimento Web
+  **2. Portátil e Extensivel**
   
-          O Python tem uma matriz de frameworks para desenvolvimento de websites.
-  4. Biblioteca Padrão
+  O Python é suportado pela maioria das plataformas presentes no mercado atual.
   
-          A biblioteca padrão do Python é imensa, nela contém classes, métodos e funções para realizar essencialmente qualquer tarefa, desde acesso a bancos de dados a interfaces gráficas com o usuário.
-  5. Scripting e Automação
+  **3. Desenvolvimento Web**
   
-          O Python também pode ser usado como linguagem de script, 
-  6. Big Data
+  O Python tem uma matriz de frameworks para desenvolvimento de websites.
+
+  **4. Biblioteca Padrão**
   
-          O Python é amplamente usado para Big Data, pois você pode processá-lo facilmente.
+  A biblioteca padrão do Python é imensa, nela contém classes, métodos e funções para realizar essencialmente qualquer tarefa, desde acesso a bancos de dados a interfaces gráficas com o usuário.
+ 
+  **5. Scripting e Automação**
+  
+   O Python também pode ser usado como linguagem de script.
+   
+  **6. Big Data**
+  
+   O Python é amplamente usado para Big Data, pois você pode processá-lo facilmente.
 
 ## Como Instalar
 
