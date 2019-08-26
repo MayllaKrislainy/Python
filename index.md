@@ -47,6 +47,17 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    Caso você não queira instalar o python, você pode optar pelo site [relp.it](https://repl.it/).
    
    Esse site provê um ambiente configurado para as linguagens de progamação, incluindo Python...
+   
+   
+   ## Referencias
+   [HostGator](https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/).
+   
+   [PyScience-Brasil](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq).
+   
+   [DEVMEDIA](https://www.devmedia.com.br/aprendendo-a-programar-em-python-introducao/17093).
+   
+   [DEVM2](https://www.devmedia.com.br/primeiros-passos-com-o-python/37003).
+   
 
 You can use the [editor on GitHub](https://github.com/MayllaKrislainy/Python/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
