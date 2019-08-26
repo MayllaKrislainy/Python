@@ -20,11 +20,13 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
 ## Como Instalar
 
   ### Windows
+  
   Acesse o site [Python Software Fundation](https://www.python.org/downloads/).
   [PDF Tutorial](http://www.filosofiacienciaarte.org/attachments/article/1026/instalarPython.pdf).
   [Video Tutorial](https://youtu.be/X2C3HG_ynGM).
   
   ### Linux
+  
   Verifique se já tem o Python instalado, (algumas versões do linux podem vir com alguma versão do python instalada por padrão).
   
   ```markdown
