@@ -25,7 +25,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
 
 ## Como Instalar
 
-   •WINDOWS
+   **•WINDOWS**
   
    Acesse o site [Python Software Fundation](https://www.python.org/downloads/).
   
@@ -33,13 +33,14 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   
    [Video Tutorial](https://youtu.be/X2C3HG_ynGM).
   
-   •LINUX
+   **•LINUX**
   
    Acesse o site [Python Brasil](https://python.org.br/instalacao-linux/).
   
-   OU..
+   **OU..**
   
    Caso você não queira instalar o python, você pode optar pelo site [relp.it](https://repl.it/).
+   
    Esse site provê um ambiente configurado para as linguagens de progamação, incluindo Python...
 
 You can use the [editor on GitHub](https://github.com/MayllaKrislainy/Python/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
