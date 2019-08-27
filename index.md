@@ -191,7 +191,11 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   **•filas e pilhas:**
   
   
-  
+## Plataformas de aprendizagem
+
+ Uma noa sugestão pra quem quer praticar python é fazer exercícios de progamação para melhorar o desempenho, por esse motivo recomendo o uso do _URI_. O [URI Online Judge](https://www.urionlinejudge.com.br/) é um projeto que tem como principal objetivo fornecer prática de programação e compartilhamento de conhecimento.
+ 
+ [Bloky Games](https://blockly-games.appspot.com/?lang=pt-br) pra quem não tem base nenhuma em progamação esse site é interessante pra desenvolver pensamento logico e aprender a usar linguagens convencionais baseadas em texto.
   
 ## Exercícios Recomendados
 
