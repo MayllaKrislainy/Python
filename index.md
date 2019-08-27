@@ -206,11 +206,11 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
  
   _Livros:_
   
-  • Learn Python the Hard Way - Zed Shaw
+  • [Learn Python the Hard Way - Zed A. Shaw](https://www.academia.edu/36040123/Learn_Python_the_hard_way)
   
-  • Treading on Python: Beginning Python Programming
+  • [Treading on Python: Beginning Python Programming](http://astronomi.erciyes.edu.tr/wp-content/uploads/astronom/pdf/Python%20-%20Andrew%20Johansen.pdf)
   
-  • Think Python: How to Think Like a Computer Scientist
+  • Think Python: How to Think Like a Computer Scientist(https://www.greenteapress.com/thinkpython/thinkpython.pdf)
   
   _Cursos:_
   
