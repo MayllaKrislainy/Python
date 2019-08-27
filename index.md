@@ -182,7 +182,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   
   É uma estrutura de dados compposta por itens organizados de forma linear na qual cada uma pode ser acessada a partir de indice que representa sua posição na coleção (iniciando em 0).
   
-  ![Image](https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjim7G446PkAhW6K7kGHT6aAsUQjRx6BAgBEAQ&url=https%3A%2F%2Fslideplayer.com.br%2Fslide%2F1266100%2F&psig=AOvVaw32Eihz6VHAAul6RWzQEe9r&ust=1567020239885283)
+  ![Image](https://uploaddeimagens.com.br/imagens/listaphyton-jpg)
   
   **•tuplas:**
   
