@@ -124,7 +124,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    
    Existem também operadores relacionais ou comparativos, que são: >, <, ==, >=, <=, eles representam maior que, menor que, igual, maior    ou igual que, menor ou igual que.
    
- ## Estruturas Condicionais
+## Estruturas Condicionais
  
   **•if:**
  
@@ -150,7 +150,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
       `print`("a eh maior que 1")
   ```
   
- ## Laços de Repetição
+## Laços de Repetição
   
    **•while:**
   
@@ -176,7 +176,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
          `print`(x)
   ```
   
- ## Listas, Tuplas, Filas e Pilhas
+## Listas, Tuplas, Filas e Pilhas
   
   **•lista:**
   
@@ -186,21 +186,49 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   
   **•tuplas:**
   
+  **•filas e pilhas:**
   
   
   
   
+ ## Exercícios Recomendados
+ 
+ ## Livros e Cursos
+ 
+  _Livros:_
   
+  • Learn Python the Hard Way - Zed Shaw.
   
+  • Treading on Python: Beginning Python Programming.
   
-  ## Referencias
-   [HostGator](https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/).
+  • Think Python: How to Think Like a Computer Scientist.
+  
+  _Cursos:_
+  
+  • [Introdução à Ciência da Computação com Python Parte 1 (USP)](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
+  
+  • [Python Básico](https://solyd.com.br/treinamentos/python-basico)
+  
+  • [Python para Zumbis](https://www.youtube.com/playlist%E2%80%A6)
+  
+  • [Curso python 3 by Guanabara](https://www.youtube.com/watch%E2%80%A6)
+ 
+ 
+ ## Referencias e Recomendações
+ 
+   [O que é python?](https://www.devmedia.com.br/aprendendo-a-programar-em-python-introducao/17093).
    
-   [PyScience-Brasil](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq).
+   [Por que Python?](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq).
    
-   [DEVMEDIA](https://www.devmedia.com.br/aprendendo-a-programar-em-python-introducao/17093).
+   [Motivos pra aprender Python](https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/).
    
-   [DEVM2](https://www.devmedia.com.br/primeiros-passos-com-o-python/37003).
+   [Primeiros passos com o Python](https://www.devmedia.com.br/primeiros-passos-com-o-python/37003).
+   
+   [PDF - Inrodução a Python](http://www.filosofiacienciaarte.org/attachments/article/1026/pythonbasicoUNESP.pdf)
+   
+   [Slide sobre Python: variaveis, operadores e etc.](http://www.filosofiacienciaarte.org/attachments/article/1026/Modulo%20II%20-%20ProCom.pdf)
+   
+   
    
 
 You can use the [editor on GitHub](https://github.com/MayllaKrislainy/Python/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
