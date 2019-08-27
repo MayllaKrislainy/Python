@@ -67,6 +67,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    Esse site provê um ambiente configurado para as linguagens de progamação, incluindo Python...
    
    
+   
    _Após instalarmos o Python, vamos instalar a IDE. Você pode trabalhar com sua IDE favorita_
    
    
@@ -186,22 +187,24 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   
   **•tuplas:**
   
+  
   **•filas e pilhas:**
   
   
   
   
- ## Exercícios Recomendados
+## Exercícios Recomendados
+
  
- ## Livros e Cursos
+## Livros e Cursos
  
   _Livros:_
   
-  • Learn Python the Hard Way - Zed Shaw.
+  • Learn Python the Hard Way - Zed Shaw
   
-  • Treading on Python: Beginning Python Programming.
+  • Treading on Python: Beginning Python Programming
   
-  • Think Python: How to Think Like a Computer Scientist.
+  • Think Python: How to Think Like a Computer Scientist
   
   _Cursos:_
   
@@ -214,19 +217,19 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   • [Curso python 3 by Guanabara](https://www.youtube.com/watch%E2%80%A6)
  
  
- ## Referencias e Recomendações
+## Referencias e Recomendações
  
-   [O que é python?](https://www.devmedia.com.br/aprendendo-a-programar-em-python-introducao/17093).
+   • [O que é python?](https://www.devmedia.com.br/aprendendo-a-programar-em-python-introducao/17093)
    
-   [Por que Python?](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq).
+   • [Por que Python?](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)
    
-   [Motivos pra aprender Python](https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/).
+   • [Motivos pra aprender Python](https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/)
    
-   [Primeiros passos com o Python](https://www.devmedia.com.br/primeiros-passos-com-o-python/37003).
+   • [Primeiros passos com o Python](https://www.devmedia.com.br/primeiros-passos-com-o-python/37003)
    
-   [PDF - Inrodução a Python](http://www.filosofiacienciaarte.org/attachments/article/1026/pythonbasicoUNESP.pdf)
+   • [PDF - Inrodução a Python](http://www.filosofiacienciaarte.org/attachments/article/1026/pythonbasicoUNESP.pdf)
    
-   [Slide sobre Python: variaveis, operadores e etc.](http://www.filosofiacienciaarte.org/attachments/article/1026/Modulo%20II%20-%20ProCom.pdf)
+   • [Slide sobre Python: variaveis, operadores e etc](http://www.filosofiacienciaarte.org/attachments/article/1026/Modulo%20II%20-%20ProCom.pdf)
    
    
    
