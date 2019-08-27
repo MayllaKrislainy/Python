@@ -70,7 +70,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    _Após instalarmos o Python, vamos instalar a IDE. Você pode trabalhar com sua IDE favorita_
    
    
- ## Melhores IDEs e Editores de Texto para Python
+## Melhores IDEs e Editores de Texto para Python
  
    Alguns editores de texto recomendados são:
   
@@ -95,7 +95,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    Para mais informações sobre IDEs e Editores de texto acesse: [Qual a melhor IDE para Python](http://rodrigoamaral.net/2012/11/11/qual-a-melhor-ide-para-python/).
    
    
- ## Os primeiros comandos do Python
+## Os primeiros comandos do Python
  
  **•COMANDOS BASICOS**
  
@@ -124,7 +124,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    
    Existem também operadores relacionais ou comparativos, que são: >, <, ==, >=, <=, eles representam maior que, menor que, igual, maior    ou igual que, menor ou igual que.
    
-  ## Estruturas Condicionais
+ ## Estruturas Condicionais
  
   **•if:**
  
@@ -150,7 +150,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
       `print`("a eh maior que 1")
   ```
   
-  ## Laços de Repetição
+ ## Laços de Repetição
   
    **•while:**
   
@@ -176,13 +176,13 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
          `print`(x)
   ```
   
-  ## Listas, Tuplas, Filas e Pilhas
+ ## Listas, Tuplas, Filas e Pilhas
   
   **•lista:**
   
   É uma estrutura de dados compposta por itens organizados de forma linear na qual cada uma pode ser acessada a partir de indice que representa sua posição na coleção (iniciando em 0).
   
-  ![Image](https://uploaddeimagens.com.br/imagens/listaphyton-jpg)
+  ![Image](https://uploaddeimagens.com.br/images/002/298/724/full/listaphyton.jpg?1566934771)
   
   **•tuplas:**
   
@@ -193,7 +193,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   
   
   
-   ## Referencias
+  ## Referencias
    [HostGator](https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/).
    
    [PyScience-Brasil](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq).
