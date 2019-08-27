@@ -66,7 +66,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    
    Esse site provê um ambiente configurado para as linguagens de progamação, incluindo Python...
    
-   ** _Após instalarmos o Python, vamos instalar a IDE. Você pode trabalhar com sua IDE favorita_ **
+   _Após instalarmos o Python, vamos instalar a IDE. Você pode trabalhar com sua IDE favorita_
    
  ## Melhores IDEs e Editores de Texto para Python
  
@@ -92,6 +92,32 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
  
    Para mais informações sobre IDEs e Editores de texto acesse: [Qual a melhor IDE para Python](http://rodrigoamaral.net/2012/11/11/qual-a-melhor-ide-para-python/).
    
+ ## Os primeiros comandos do Python
+ 
+ **•COMANDOS BASICOS**
+ 
+ _Entrada de Dados:_ input();
+ 
+ _Saida de Dados:_ print();
+       
+    responsavel pela impressão na tela do conteúdo que lhe é informado.
+ 
+ **•VARIAVEIS**
+ 
+  Assim como em outras linguagens, o Python pode manipular variáveis básicas como strings (palavras ou cadeias de caracteres), inteiros   e reais (float). Para criá-las, basta utilizar um comando de atribuição, que define seu tipo e seu valor.
+  
+  _Tipos:_
+  
+  • int (inteiro);
+  • float (reais);
+  • string / char (caracteres);
+  • boolean (True/False);
+  
+  **•OPERADORES**
+  
+   Operadores são símbolos que representam operações matemáticas. Os principais são: +, -, *, / e ** , que representam, respectivamente,    adição, subtração, multiplicação, divisão e exponenciação. 
+   
+   Existem também operadores relacionais ou comparativos, que são: >, <, ==, >=, <=, eles representam maior que, menor que, igual, maior    ou igual que, menor ou igual que.
  
    ## Referencias
    [HostGator](https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/).
