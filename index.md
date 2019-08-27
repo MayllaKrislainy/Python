@@ -185,7 +185,9 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   
   ![Image](https://uploaddeimagens.com.br/images/002/298/724/full/listaphyton.jpg?1566934771)
   
-  **•tuplas:** São listas imutaveis.
+  **•tuplas:** 
+  
+  São listas imutaveis.
   
   **EXEMPLOS:**
   
@@ -200,11 +202,11 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
 
   _Filas:_ Os primeiros dados a entrarem sao os primeiros a sairem.
   
- ``First in First out``
+ ``First in, First out``
 
  _Pilhas:_ Os ultimos dados a entrar sao os primeiros a sairem, igual em uma pilha de livros.
  
- ``Last in Fisrt out``
+ ``Last in, Fisrt out``
   
 ## Plataformas de aprendizagem
 
