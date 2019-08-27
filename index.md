@@ -187,9 +187,26 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   
   **•tuplas:**
   
+  São listas imutaveis.
+
+  **EXEMPLOS:**
+  
+  ```markdown
+  A = [1,2,3] // Lista
+  B = (1,2,3) // Tuplas
+  ``` 
   
   **•filas e pilhas:**
   
+  Sao estruturas de dados, geralmente utilizada para a transferência de dados ou gerenciamento de tarefas.
+
+  _Filas:_
+ ``First in First out``
+ Os primeiros dados a entrarem sao os primeiros a sairem.
+
+ _Pilhas:_
+ ``Last in Fisrt out``
+ Os ultimos dados a entrar sao os primeiros a sairem, igual em uma pilha de livros.
   
 ## Plataformas de aprendizagem
 
@@ -210,7 +227,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   
   • [Treading on Python: Beginning Python Programming](http://astronomi.erciyes.edu.tr/wp-content/uploads/astronom/pdf/Python%20-%20Andrew%20Johansen.pdf)
   
-  • Think Python: How to Think Like a Computer Scientist(https://www.greenteapress.com/thinkpython/thinkpython.pdf)
+  • [Think Python: How to Think Like a Computer Scientist](https://www.greenteapress.com/thinkpython/thinkpython.pdf)
   
   _Cursos:_
   
