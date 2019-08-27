@@ -66,7 +66,9 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    
    Esse site provê um ambiente configurado para as linguagens de progamação, incluindo Python...
    
+   
    _Após instalarmos o Python, vamos instalar a IDE. Você pode trabalhar com sua IDE favorita_
+   
    
  ## Melhores IDEs e Editores de Texto para Python
  
@@ -92,11 +94,14 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
  
    Para mais informações sobre IDEs e Editores de texto acesse: [Qual a melhor IDE para Python](http://rodrigoamaral.net/2012/11/11/qual-a-melhor-ide-para-python/).
    
+   
  ## Os primeiros comandos do Python
  
  **•COMANDOS BASICOS**
  
  _Entrada de Dados:_ input();
+ 
+    dados informados pelo usuario.
  
  _Saida de Dados:_ print();
        
