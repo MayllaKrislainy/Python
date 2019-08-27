@@ -27,6 +27,14 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   **6. Big Data**
   
    O Python é amplamente usado para Big Data, pois você pode processá-lo facilmente.
+   
+## Desvantagens
+
+**1. Existem problemas de desempenho no Python.**
+
+**2. Algumas versões do Python são incompatíveis entre si, como a versão 2 e a 3.**
+
+**3. Pode ser que o Python não possua uma documentação tão boa quanto outras linguagens, como o Java**
 
 ## Como Instalar
 
@@ -39,8 +47,18 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    [Video Tutorial](https://youtu.be/X2C3HG_ynGM).
   
    **•LINUX**
+   
+  Algumas versões do Linux já vem com o Python instalado, para verrificar se seu linux já tem o Python instalado, digite em um terminal:
   
-   Acesse o site [Python Brasil](https://python.org.br/instalacao-linux/).
+   ``$ which python``
+   
+   ou
+   
+   ``$ which python3``
+   
+   que deve retornar algo como ``/usr/bin/python``. Isso significa que o Python está instalado nesse endereço.
+   
+   Caso contrário, acesse o site [Python Brasil](https://python.org.br/instalacao-linux/).
   
    **OU..**
   
