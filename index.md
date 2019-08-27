@@ -66,7 +66,33 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    
    Esse site provê um ambiente configurado para as linguagens de progamação, incluindo Python...
    
+   ** _Após instalarmos o Python, vamos instalar a IDE. Você pode trabalhar com sua IDE favorita_ **
    
+ ## Melhores IDEs e Editores de Texto para Python
+ 
+   Alguns editores de texto recomendados são:
+  
+   **•Sublime Text**
+  
+   **•Vim**
+  
+   **•Emacs**
+  
+   **•TextMate**
+  
+   Entretanto, se você já tem o hábito de usar IDE e tem certeza de que não quer experimentar um estilo mais simples de programar, tente    as opções a seguir e escolha a que for mais confortável para você:
+ 
+   **•PyCharm**
+ 
+   **•WingIDE**
+ 
+   **•Atom**
+ 
+   **•Visual Studio**
+ 
+   Para mais informações sobre IDEs e Editores de texto acesse: [Qual a melhor IDE para Python](http://rodrigoamaral.net/2012/11/11/qual-a-melhor-ide-para-python/).
+   
+ 
    ## Referencias
    [HostGator](https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/).
    
