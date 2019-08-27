@@ -195,6 +195,8 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   
 ## Exercícios Recomendados
 
+ •[URI_EX1001](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) •[URI_EX1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) •[URI_EX1003](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) •[URI_EX1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004) •[URI_EX1005](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005) •[URI_EX1006](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006) •[URI_EX1007](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007) •[URI_EX1008](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008) •[URI_EX1010](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010) •[URI_EX1011](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011) •[URI_EX1012](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012) •[URI_EX1014](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014) •[URI_EX1015](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015) •[URI_EX1016](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016) •[URI_EX1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019)
+
  
 ## Livros e Cursos
  
