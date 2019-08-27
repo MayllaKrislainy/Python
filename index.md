@@ -123,7 +123,76 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    Operadores são símbolos que representam operações matemáticas. Os principais são: +, -, *, / e ** , que representam, respectivamente,    adição, subtração, multiplicação, divisão e exponenciação. 
    
    Existem também operadores relacionais ou comparativos, que são: >, <, ==, >=, <=, eles representam maior que, menor que, igual, maior    ou igual que, menor ou igual que.
+   
+  ## Estruturas Condicionais
  
+  **•if:**
+ 
+   É usado para avaliar uma expressão e se o resultado for satisfatorio executa uma determinada ação.
+  
+   **•else:**
+  
+   Caso a condição _if_ não seja satisfeita, outra ação no caso _else_, é executada.
+ 
+   **•elif:**
+ 
+   Avalia mais de uma condição, ou seja, expressões intermediarias. 
+  
+   **EXEMPLOS:**
+  
+  ```markdown
+  a = 2
+  `if` a < 1:
+     `print`("a eh menor que 1")
+  `elif` a == 1:
+      `print`("a eh igual a 1")
+  `else`:
+      `print`("a eh maior que 1")
+  ```
+  
+  ## Laços de Repetição
+  
+   **•while:**
+  
+   O comando _while_ faz com que um conjunto de instruções seja executado enquanto uma condição é atendida.
+   
+   **•for:**
+   
+   É uma estrutura que geralmente analisa os elementos de uma lista e então executa determinada ação.
+   
+   **EXEMPLOS:**
+   
+   _Codigo que mostra numeros de 0 ate 10:_
+  ```markdown
+  cont = 0
+  `while` cont < 10:
+      `print`(cont)
+      cont += 1
+   ```
+  _Codigo que mostra numeros pares entre 1 e 10:_
+  ```markdown    
+  `for` x `in` [1,2,3,4,5,6,7,8,9,10]:
+     `if` x%2 == 0:
+         `print`(x)
+  ```
+  
+  ## Listas, Tuplas, Filas e Pilhas
+  
+  **•lista:**
+  
+  É uma estrutura de dados compposta por itens organizados de forma linear na qual cada uma pode ser acessada a partir de indice que representa sua posição na coleção (iniciando em 0).
+  
+  ![Image](https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjim7G446PkAhW6K7kGHT6aAsUQjRx6BAgBEAQ&url=https%3A%2F%2Fslideplayer.com.br%2Fslide%2F1266100%2F&psig=AOvVaw32Eihz6VHAAul6RWzQEe9r&ust=1567020239885283)
+  
+  **•tuplas:**
+  
+  
+  
+  
+  
+  
+  
+  
    ## Referencias
    [HostGator](https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/).
    
