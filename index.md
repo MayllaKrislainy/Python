@@ -166,7 +166,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
    _Codigo que mostra numeros de 0 ate 10:_
   ```markdown
   cont = 0
-  `while` cont < 10:
+  `while` cont <= 10:
       `print`(cont)
       cont += 1
    ```
