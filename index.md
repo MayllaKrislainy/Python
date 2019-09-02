@@ -48,7 +48,7 @@ Python é uma lingagem de progamação de altíssimo nível, possui comandos mai
   
    **•LINUX**
    
-  Algumas versões do Linux já vem com o Python instalado, para verrificar se seu linux já tem o Python instalado, digite em um terminal:
+  Algumas versões do Linux já vem com o Python instalado, para verificar se seu linux já tem o Python instalado, digite em um terminal:
   
    ``$ which python``
    
